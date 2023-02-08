@@ -6811,6 +6811,7 @@ td.remove {
   overflow: hidden;
   position: relative;
   padding: 180px 0 210px;
+  height: 100vh;
 }
 
 .header-absolute+.banner-3.sigma_banner .sigma_banner-slider-inner {
@@ -10820,4 +10821,82 @@ small {
 .course_duration {
   border-bottom: 1px solid #C4C4C4;
   font-size: 26px;
+  position: relative;
+}
+
+.course_join_btn::before {
+  content: '';
+  background: black;
+  width: 0.5pt;
+  height: 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: height .2s ease-in-out;
+}
+
+.course_join_btn::after {
+  content: '';
+  background: black;
+  width: 0.5pt;
+  height: 0px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  transition: height .2s ease-in-out;
+}
+
+.course_join_btn:hover::before {
+  height: 39px;
+}
+
+.sigma_service:hover .sigma_service-body .course_join_btn::before,
+.sigma_service:hover .sigma_service-body .course_join_btn::after {
+  height: 39px;
+  background: white;
+}
+
+.sigma_service:hover {
+  background-color: #FB625B;
+}
+
+.sigma_service:hover .sigma_service-body h5 p {
+  color: #fff;
+}
+
+.sigma_service:hover .sigma_service-body h5 a {
+  color: #fff;
+}
+
+.sigma_service:hover .sigma_service-body p {
+  color: #fff;
+}
+
+.sigma_service:hover .sigma_service-body a {
+  color: #fff;
+  border-color: white;
+}
+
+.sigma_broadcast-video .sigma_video-popup-wrap img.retreat_image {
+  position: relative;
+}
+
+
+.retreat-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.retreat-center .retreat_img {
+  width: 100px !important;
+  height: 100px !important;
+  padding: 0 !important;
+}
+
+.retreat-center h6{
+  color: #fff;
+  margin-top: 10px;
 }

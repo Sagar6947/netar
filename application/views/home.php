@@ -151,7 +151,7 @@
               <p class="course_duration mb-2">50 Hour</p>
               <a href="">8 Days Meditation Teacher training Course (MTTC)</a>
             </h5>
-            <p>yoga program to become effective yogic teacher</p>
+            <p>yoga program to become effective <br> yogic teacher</p>
             <a href="" class="course_join_btn">
               Join Now
             </a>
@@ -162,14 +162,14 @@
       <div class="col-lg-4 col-md-6">
         <div class="sigma_service style-2">
           <div class="sigma_service-thumb">
-            <img src="<?= base_url() ?>assets/image/course-1.webp" alt="img">
+            <img src="<?= base_url() ?>assets/image/course-2.webp" alt="img">
           </div>
           <div class="sigma_service-body text-center">
             <h5>
-              <p class="course_duration">50 Hour</p>
-              <a href="">8 Days Meditation Teacher training Course (MTTC)</a>
+              <p class="course_duration">100 Hour</p>
+              <a href="">11 Days Meditation Teacher Training course(MTTC)</a>
             </h5>
-            <p>yoga program to become effective yogic teacher</p>
+            <p>Learn meditation in its true sense. Get unbelievable experiences under Banyan Tree.</p>
             <a href="" class="course_join_btn">
               Join Now
             </a>
@@ -180,20 +180,53 @@
       <div class="col-lg-4 col-md-6">
         <div class="sigma_service style-2">
           <div class="sigma_service-thumb">
-            <img src="<?= base_url() ?>assets/image/course-1.webp" alt="img">
+            <img src="<?= base_url() ?>assets/image/course-3.webp" alt="img">
           </div>
           <div class="sigma_service-body text-center">
             <h5>
-              <p class="course_duration">50 Hour</p>
-              <a href="">8 Days Meditation Teacher training Course (MTTC)</a>
+              <p class="course_duration">200 Hour</p>
+              <a href="">21 Days Meditation Teacher Training Course (MTTC)</a>
             </h5>
-            <p>yoga program to become effective yogic teacher</p>
+            <p>Blessings of Tripur Sundari under Lopamudra tradition for health, wealth and prosperity</p>
             <a href="" class="course_join_btn">
               Join Now
             </a>
           </div>
         </div>
       </div>
+
+    </div>
+  </div>
+</div>
+
+
+<div class="section-padding pt-0">
+  <div class="container">
+    <div class="section_title courses_title py-5" data-name="">
+      <h2 class="cormorant">RETREATS</h2>
+    </div>
+    <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi facere rerum fugit ex in, similique maiores voluptate velit nobis! Tenetur quisquam perferendis, necessitatibus ex sit repellat libero officiis eligendi earum iure eveniet nihil cumque id ut modi, placeat labore in sequi consequatur quis! Obcaecati beatae ipsam qui exercitationem est id aliquid veritatis odit, consectetur incidunt explicabo iste sunt aperiam in.</p>
+    <div class="row sigma_broadcast-video mt-5">
+
+
+      <div class="col-lg-4 coaching">
+        <div class="sigma_portfolio-item">
+          <img src="<?= base_url() ?>assets/image/retreats_1.webp" alt="portfolio">
+          <div class="sigma_portfolio-item-content">
+            <div class="retreat-center">
+              <img src="<?= base_url() ?>assets/image/retreats_shrividya.webp" class="retreat_img" alt="">
+              <h6>SHRI VIDYA RETREAT</h6>
+            </div>
+            <div class="sigma_portfolio-item-content-inner">
+              <h5> <a href="puja-details.html"> Durga Puja </a> </h5>
+              <p class="blockquote bg-transparent">Puja is the worship of the Lord, consectet ur adipisicing elit, sed
+                do eiusmod</p>
+            </div>
+            <a href="puja-details.html"><i class="fal fa-plus"></i></a>
+          </div>
+        </div>
+      </div>
+
 
     </div>
   </div>
