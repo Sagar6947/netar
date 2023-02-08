@@ -198,7 +198,7 @@
     </div>
   </div>
 </div>
-
+<?php include('includes/footer.php'); ?>
 
 <div class="section-padding pt-0">
   <div class="container">
