@@ -933,8 +933,8 @@ video {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url(../img/textures/map-2.png);
-  background-size: cover;
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),url(../image/map-2.webp);  
+  /* background-size: cover; */
   background-position: center;
 }
 

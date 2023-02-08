@@ -191,6 +191,147 @@
 </div>
 
 
+<div class="section-padding  mt-5">
+  <div class="container">
+    <div class="section_title courses_title" data-name="">
+      <h2 class="cormorant text-uppercase">Why Nectar Yoga Ashram ?</h2>
+    </div>
+
+    <section class="pt-5 pb-5">
+      <div class="container">
+
+        <div class="row align-items-center">
+
+
+          <div class="col-lg-4">
+            <img src="assets/image/why-banner.png" alt="about">
+          </div>
+          <div class="col-lg-8">
+            <div class="me-lg-30">
+
+
+              <ul class="whyul">
+                <li class="nav-item">
+                  <h6>Authenticity</h6>
+                  <p>Classes are taken by teachers with years of experience in teaching yoga to people from across the globe, both online and offline. Our approach is gentle, traditional and holistic.</p>
+                </li>
+
+                <li class="nav-item">
+                  <h6>Excellence</h6>
+                  <p>Classes are taken by teachers with years of experience in teaching yoga to people from across the globe, both online and offline. Our approach is gentle, traditional and holistic.
+                  </p>
+
+                <li class="nav-item">
+                  <h6>Vedic Teaching</h6>
+                  <p> Classes are taken by teachers with years of experience in teaching yoga to people from across the globe, both online and offline. Our approach is gentle, traditional and holistic.
+                  </p>
+
+                <li class="nav-item">
+                  <h6>Surrounded by Nature</h6>
+                  <p>Classes are taken by teachers with years of experience in teaching yoga to people from across the globe, both online and offline. Our approach is gentle, traditional and holistic.
+                  </p>
+
+                <li class="nav-item">
+                  <h6>Satvik Food</h6>
+                  <p>Classes are taken by teachers with years of experience in teaching yoga to people from across the globe, both online and offline. Our approach is gentle, traditional and holistic.
+                  </p>
+
+                <li class="nav-item">
+                  <h6>Satsang</h6>
+                  <p>Classes are taken by teachers with years of experience in teaching yoga to people from across the globe, both online and offline. Our approach is gentle, traditional and holistic.</p>
+                </li>
+
+              </ul>
+
+
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+    </section>
+  </div>
+</div>
+
+<div class="section section-padding  pattern-map">
+  <div class="container-fluid">
+    <div class="row justify-content-center">
+
+      <div class="col-lg-12 justify-content-center text-center getintouch">
+        <h1 class="cormorant text-dark">Get Your Best Meditation Experience in life</>
+        </h1>
+        <h6>Nectar Yoga Exists To Bring The Authentic Teachings Of Yoga Back to yoga; both on and off the mat.</h6>
+
+        <a href="" class="btn btn-lg btn-danger joinbutton mt-5">JOIN NOW</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="section-padding pt-0">
+  <div class="container">
+    <div class="section_title courses_title py-5" data-name="">
+      <h2 class="cormorant">OUR UPCOMING EVENTS</h2>
+
+    </div>
+
+    <div class="section section-padding pt-0">
+      <div class="container">
+
+        <div class="row sigma_broadcast-video">
+
+          <div class="col-lg-4 col-sm-6 mb-30">
+            <div class="sigma_video-popup-wrap muskan-event">
+              <img src="assets/image/event.jpg" alt="video">
+              <div class="event-content sigma_video-popup flex-column">
+                <h5> <a href=""> Transformational Yoga For Self-Care </a> </h5>
+                <p class="bg-transparent">
+                  <i class="far fa-calendar"> &nbsp; Jan 20, 2023</i>
+                </p>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4 col-sm-6 mb-30">
+            <div class="sigma_video-popup-wrap muskan-event">
+              <img src="assets/image/event.jpg" alt="video">
+              <div class="event-content sigma_video-popup flex-column">
+                <h5> <a href=""> Meditation For Self-Care </a> </h5>
+                <p class="bg-transparent">
+                  <i class="far fa-calendar"> &nbsp; Jan 20, 2023</i>
+                </p>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4 col-sm-6 mb-30">
+            <div class="sigma_video-popup-wrap muskan-event">
+              <img src="assets/image/event.jpg" alt="video">
+              <div class="event-content sigma_video-popup flex-column">
+                <h5> <a href=""> Meditation For Self-Care </a> </h5>
+                <p class="bg-transparent">
+                  <i class="far fa-calendar"> &nbsp; Jan 20, 2023</i>
+                </p>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
 <div class="section-padding pt-0">
   <div class="container">
     <div class="section_title courses_title py-5" data-name="">

@@ -1,7 +1,5 @@
 .muskan-footer
 {
- 
-
  .sigma_footer-copyright
  {
     color: white;
@@ -9,4 +7,69 @@
     font-size: 18px;
  }
 
+}
+
+.sigma_video-popup-wrap.muskan-event{
+   overflow: hidden;
+   &:hover{
+      .sigma_video-popup{
+         bottom: 0 !important;
+      }
+}
+}
+
+
+.sigma_video-popup-wrap.muskan-event .sigma_video-popup {
+   padding: 10px 0;
+   height: auto;
+   position: absolute;
+   bottom: -25%;
+   left: 50%;
+   transform: translateX(-50%);
+   top: inherit !important;
+   z-index: 2;
+   background-color: transparent;
+   width: 100%;
+   border-radius: 0 !important;
+   background: #fb625bc4;
+   transition: all .2s ease;
+   text-align: center;
+   
+
+   h5{
+      margin-bottom: 0 !important;
+      border-bottom: 1px solid #fff;
+      padding: 10px 30px;
+      a{
+
+         color: #fff !important;
+        
+      }
+   }
+   p{
+      color: #000 !important;
+      font-size: 18px;
+   }
+   &::after{
+      display: none;
+   }
+   &::before{
+      display: none;
+   }
+
+   
+
+
+   
+}
+.sigma_video-popup {
+   position: relative;
+   width: 80px;
+   height: 80px;
+   background-color: #7E4555;
+   color: #fff;
+   border-radius: 50%;
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
 }

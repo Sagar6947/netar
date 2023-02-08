@@ -2,4 +2,58 @@
   color: white;
   font-weight: 400;
   font-size: 18px;
+}
+
+.sigma_video-popup-wrap.muskan-event {
+  overflow: hidden;
+}
+.sigma_video-popup-wrap.muskan-event:hover .sigma_video-popup {
+  bottom: 0 !important;
+}
+
+.sigma_video-popup-wrap.muskan-event .sigma_video-popup {
+  padding: 10px 0;
+  height: auto;
+  position: absolute;
+  bottom: -25%;
+  left: 50%;
+  transform: translateX(-50%);
+  top: inherit !important;
+  z-index: 2;
+  background-color: transparent;
+  width: 100%;
+  border-radius: 0 !important;
+  background: rgba(251, 98, 91, 0.768627451);
+  transition: all 0.2s ease;
+  text-align: center;
+}
+.sigma_video-popup-wrap.muskan-event .sigma_video-popup h5 {
+  margin-bottom: 0 !important;
+  border-bottom: 1px solid #fff;
+  padding: 10px 30px;
+}
+.sigma_video-popup-wrap.muskan-event .sigma_video-popup h5 a {
+  color: #fff !important;
+}
+.sigma_video-popup-wrap.muskan-event .sigma_video-popup p {
+  color: #000 !important;
+  font-size: 18px;
+}
+.sigma_video-popup-wrap.muskan-event .sigma_video-popup::after {
+  display: none;
+}
+.sigma_video-popup-wrap.muskan-event .sigma_video-popup::before {
+  display: none;
+}
+
+.sigma_video-popup {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  background-color: #7E4555;
+  color: #fff;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }/*# sourceMappingURL=muskan.css.map */
