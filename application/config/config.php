@@ -2,7 +2,7 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 
 
-$config['base_url'] = 'http://localhost/nectaryog/';
+$config['base_url'] = 'http://localhost/nector/';
 
 
 $config['index_page'] = '';
@@ -112,8 +112,8 @@ $config['rewrite_short_tags'] = FALSE;
 $config['proxy_ips'] = '';
 
 
-define('STOREHASH','tnltve8uac');
-define('AUTHTOKEN','303k1bzo41yhbqkdqzcyr57m4cff1w5');
+define('STOREHASH', 'tnltve8uac');
+define('AUTHTOKEN', '303k1bzo41yhbqkdqzcyr57m4cff1w5');
 
 
 // Test
@@ -121,5 +121,5 @@ define('AUTHTOKEN','303k1bzo41yhbqkdqzcyr57m4cff1w5');
 // define('publishable_key', 'pk_test_AwMixKb9CbgJuVhbSjjfQJIT');
 
 // Live
-define('secret_key', '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');  
+define('secret_key', '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');
 define('publishable_key', 'pk_live_51LzY4YJfboVVtpI8h1PJmlZwD4WCOWPvNYV9wMqRn515qbbNFKGu5vrv0pDnZ566CWWvj5epGCArDccsEqPgVskB00Dou86a09');
