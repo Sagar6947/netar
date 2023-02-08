@@ -5,16 +5,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 footer-widget">
-                    <h5 class="widget-title">About Nector Yog</h5>
-                    <p class="mb-4">Nector Yog means adding nector where universal forces is integrated with life forces. This integration amplified the level of nector naturally produced in every life form.</p>
-                    <div class="d-flex align-items-start justify-content-md-start justify-content-center footer_social_icons">
+                    <h5 class="widget-title">About Nectar Yog</h5>
+                    <p class="mb-4">Nectar Yog means adding Nectar where universal forces is integrated with life forces. This integration amplified the level of Nectar naturally produced in every life form.</p>
+                    <div class="d-flex align-items-start justify-content-md-start justify-content-start footer_social_icons">
                         <i class="far fa-phone custom-primary me-3" style="transform: rotate(90deg);"></i>
                         <div class="row flex-column footer_icon_wrapper">
                             <span>CONTACT</span>
                             <a href="tel:8109886880" target="_blank">+91 8109886880</a>
                         </div>
                     </div>
-                    <div class="d-flex align-items-start justify-content-md-start justify-content-center footer_social_icons mt-2">
+                    <div class="d-flex align-items-start justify-content-md-start justify-content-start footer_social_icons mt-2">
                         <i class="far fa-envelope custom-primary me-3"></i>
                         <span></span>
                         <div class="row flex-column footer_icon_wrapper">
@@ -22,7 +22,7 @@
                             <a href="mailto:info@nectaryog.com" target="_blank">info@nectaryog.com</a>
                         </div>
                     </div>
-                    <div class="d-flex align-items-start justify-content-md-start justify-content-center footer_social_icons mt-2">
+                    <div class="d-flex align-items-start justify-content-md-start justify-content-start footer_social_icons mt-2">
                         <i class="far fa-map-marker custom-primary me-3"></i>
 
                         <div class="row flex-column footer_icon_wrapper">
@@ -92,7 +92,7 @@
     <div class="sigma_footer-bottom">
         <div class="container-fluid">
             <div class="sigma_footer-copyright">
-                <p> © 2023 <a href="<?= base_url() ?>" class="">NECTOR YOG</a> ALL RIGHTS RESERVED. </p>
+                <p> © 2023 <a href="<?= base_url() ?>" class="">Nectar YOG</a> ALL RIGHTS RESERVED. </p>
             </div>
             <div class="sigma_footer-logo">
                 <img src="<?= base_url() ?>assets/img/logo.webp" alt="logo" class="imgfit">
