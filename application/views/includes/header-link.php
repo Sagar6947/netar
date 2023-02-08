@@ -23,6 +23,8 @@
   <link rel="stylesheet" href="assets/css/plugins/font-awesome.min.css">
   <!-- Template Style sheet -->
   <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/muskan.css">
+  <link rel="stylesheet" href="assets/css/poonam.css">
   <link rel="stylesheet" href="assets/css/responsive.css">
   <!-- partial -->
 

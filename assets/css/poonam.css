@@ -1,0 +1,73 @@
+.footer_wave::before {
+    background: none !important;
+     
+ }
+ 
+ .sigma_footer.sigma_footer-dark {
+     background-color: #f7f7f7 !important;
+     color: #000 !important;
+ }
+ 
+ .sigma_footer.sigma_footer-dark .footer-widget .widget-title {
+     color: #000 !important;
+ }
+ 
+ .sigma_footer.sigma_footer-dark p, .sigma_footer.sigma_footer-dark .footer-widget ul li a {
+     color: #000000 !important;
+ }
+ 
+ .sigma_footer.sigma_footer-dark .footer-widget i.custom-primary {
+     color: #db4242;
+     font-weight: 800;
+ }
+ 
+ .sigma_footer.footer-2.sigma_footer-dark .widget-recent-posts .sigma_recent-post h6 a {
+     color: #000000 !important;
+ }
+ 
+ .sigma_footer.sigma_footer-dark .sigma_footer-bottom {
+     border-top: 1px solid rgb(255 232 232) !important;
+ }
+ 
+ .sigma_sm.square li a {
+    background-color: rgb(227 68 70) !important;
+     color: #ffffff !important;
+ }
+ .sigma_sm.square li a i{
+   font-size: 18px;
+ }
+ 
+ .sigma_footer.footer-2 .footer-widget ul li i {
+     font-weight: 800 !important;
+ }
+ 
+ .entry-content p {
+    font-family: 'Quicksand', sans-serif !important;
+ }
+ 
+ @media screen and (max-width: 991px){
+     .our-teachers-wrapper .teacher_padding_bottom {
+     padding: 60px 0px 60px 0;
+     margin-bottom: 0;
+ }
+ 
+ .res-text-center{
+     text-align: center;
+ }
+ }
+ 
+ .sigma_mb {
+     margin-bottom: 0px !important;
+ }
+ 
+ .footer-bg{
+     background: url(../img/footer-bg.webp);
+     background-size: 130px;
+     background-position: center;
+ }
+
+ .sigma_footer-logo .imgfit
+ {
+    width: 165px;
+    object-fit: cover;
+ }
